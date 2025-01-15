@@ -1,0 +1,32 @@
+.c {
+  a :hover {
+    color: rgb(255, 230, 0);
+  }
+}
+.b {
+  a :hover {
+    color: rgb(255, 255, 0);
+  }
+}
+.a {
+  a :hover {
+    color: rgb(251, 255, 0);
+  }
+}
+.d {
+  a :hover {
+    color: rgb(251, 255, 0);
+  }
+}
+.a :visited {
+  color: rgb(90, 81, 0);
+}
+.b :visited {
+  color: rgb(90, 81, 0);
+}
+.c :visited {
+  color: rgb(90, 81, 0);
+}
+.d :visited {
+  color: rgb(90, 81, 0);
+}
